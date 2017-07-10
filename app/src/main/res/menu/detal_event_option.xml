@@ -1,0 +1,16 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/register_my_team"
+        android:title="Register my team"/>
+
+    <item
+        android:id="@+id/share_idea"
+        android:title="Share Idea"/>
+
+    <item
+        android:id="@+id/view_idea"
+        android:title="View Idea"/>
+
+</menu>
